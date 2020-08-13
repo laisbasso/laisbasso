@@ -1,16 +1,22 @@
-### Hi there 👋
+# Olá! :wave:
 
-<!--
-**laisbasso/laisbasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a Lais Basso, moro em São Paulo e atualmente estou estudando pela Generation Brasil para me tornar uma Desenvolvedora Full Stack Java! :coffee:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laisbasso/)](https://www.linkedin.com/in/laisbasso/)
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=flat&logo=CodePen&logoColor=white&link=https://codepen.io/laly_x/collections/)](https://codepen.io/laly_x/collections/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:laisbasso1@gmail.com)](mailto:laisbasso1@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LaisBasso's github stats](https://github-readme-stats.vercel.app/api?username=laisbasso&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisbasso&layout=compact&theme=buefy)
+
+## Guia de repositórios
+
+Clique [aqui](https://github.com/laisbasso/laisbasso/blob/master/guia.md) para ter uma visão geral dos meus repositórios.
+
+## Hobbies  
+
+* Ir a shows :guitar:  
+* Brincar com meus gatos Kero :smirk_cat: e Luna :smiley_cat:  
+* Tirar fotinhas analógicas :camera:  
+* Fingir que sei aquarelar :art:
