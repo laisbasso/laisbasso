@@ -19,6 +19,7 @@ Lista de repositórios priorizada pela finalização mais recente.
 
 Em andamento:
 
+:spaghetti: [Fresco](https://github.com/DottaMP/Fresco "Fresco")  
 :seedling: [PI - Seiva](https://github.com/laisbasso/PI-Seiva "PI - Seiva")  
 :computer: [Code Blog](https://github.com/laisbasso/CodeBlog "Code Blog")  
 :snake: [Python - Coursera](https://github.com/laisbasso/Python "Python - Coursera")  
