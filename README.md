@@ -10,11 +10,15 @@ Sou a Lais Basso, moro em São Paulo e atualmente estou estudando pela Generatio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisbasso&layout=compact&theme=buefy)
 
-## Guia de repositórios
+## Guia de repositórios :mag:
 
-Clique [aqui](https://github.com/laisbasso/laisbasso/blob/master/guia.md) para ter uma visão geral dos meus repositórios.
+Clique [aqui](https://github.com/laisbasso/laisbasso/blob/master/repo.md) para ter uma visão geral dos meus repositórios.
 
-## Hobbies  
+## Guia de estudos :woman_technologist:
+
+Clique [aqui](https://github.com/laisbasso/laisbasso/blob/master/estudos.md) para visualizar um mini guia de estudos para iniciantes em programação.
+
+## Hobbies :tada:
 
 * Ir a shows :guitar:  
 * Brincar com meus gatos Kero :smirk_cat: e Luna :smiley_cat:  
