@@ -1,4 +1,4 @@
-# Olá! :v:
+### Olá! :v:
 
 Sou a Lais Basso, moro em São Paulo e estou estudando para me tornar uma Desenvolvedora Full Stack! :rocket:
 
@@ -10,19 +10,9 @@ Atualmente estou estudando Python :snake: no curso Maria vai com as Devs lançad
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-000?style=flat&logo=CodePen&logoColor=white&link=https://codepen.io/laly_x/collections/)](https://codepen.io/laly_x/collections/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:laisbasso@live.com)](mailto:laisbasso@live.com)
 
-![LaisBasso's github stats](https://github-readme-stats.vercel.app/api?username=laisbasso&show_icons=true&theme=buefy)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisbasso&layout=compact&theme=buefy)
 
-## Guia de repositórios :mag:
-
-Clique [aqui](https://github.com/laisbasso/laisbasso/blob/master/repo.md) para ter uma visão geral dos meus repositórios.
-
-## Guia de estudos :woman_technologist:
-
-Clique [aqui](https://github.com/laisbasso/laisbasso/blob/master/estudos.md) para visualizar um mini guia de estudos para iniciantes em programação.
-
-## Hobbies :tada:
+### Hobbies :tada:
 
 * Ir a shows :guitar:  
 * Brincar com meus gatos Kero :smirk_cat: e Luna :smiley_cat:  
