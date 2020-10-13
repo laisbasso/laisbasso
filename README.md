@@ -6,7 +6,7 @@ Em setembro finalizei o Bootcamp Full Stack da Generation Brasil onde pude contr
 
 Atualmente estou estudando Python :snake: no curso Maria vai com as Devs lançado pela Serasa e cursando técnico em Desenvolvimento de Sistemas pela Etec! :computer:
 
-Clique [aqui](https://github.com/laisbasso/laisbasso/blob/master/portfolio.md) para conhecer meu portfólio!
+Clique [**aqui**](https://github.com/laisbasso/laisbasso/blob/master/portfolio.md) para conhecer meu portfólio!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laisbasso&layout=compact&theme=buefy)  
 
