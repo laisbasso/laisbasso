@@ -2,7 +2,7 @@
 
 ### :trophy: [Campeonato de Filmes](https://github.com/laisbasso/CopaFilmesCS)
 O Campeonato de Filmes nasceu para fazer o match perfeito entre você e o mundo cinematográfico.  
-Desenvolvido com .NET Core e Angular.
+Desenvolvido em C#, ASP.NET Core, Bootstrap e Angular.
 
 ### :seedling: [Seiva](https://github.com/laisbasso/PI-Seiva)
 A rede social Seiva visa impactar a vida de minorias socialmente marginalizadas por meio da redução das desigualdades, promovendo a igualdade de gênero, educação de qualidade e trabalho decente.  
