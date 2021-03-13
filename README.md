@@ -4,7 +4,7 @@ Sou a Lais Basso, moro em São Paulo e estou estudando para me tornar uma Desenv
 
 Em setembro finalizei o Bootcamp Full Stack da Generation Brasil onde pude contribuir no desenvolvimento de uma [aplicação web](https://github.com/laisbasso/PI-Seiva) utilizando Java :coffee:, Spring Boot :leaves:, SQL :dolphin:, Angular :a: e Docker :whale:.
 
-Atualmente estou estudando Python :snake: no curso Maria vai com as Devs lançado pela Serasa e cursando técnico em Desenvolvimento de Sistemas pela Etec! :computer:
+Atualmente estou cursando técnico em Desenvolvimento de Sistemas pela Etec e participo da primeira turma do Bootcamp Itaú Devs com foco em back-end! :computer:
 
 Clique [**aqui**](https://github.com/laisbasso/laisbasso/blob/master/portfolio.md) para conhecer meu portfólio!
 
